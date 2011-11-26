@@ -1,0 +1,3 @@
+Created by Sherzod Kutfiddinov.
+
+Texter is a PHP-based code to send a text messages to any major US carrier. It uses mobile phone's email address provided by carrier. For a safe use, captcha or some other protection should be applied. You are free to use the whole code as well as the context in your project. Note: some text messages may take longer to be delivered. Delay may be caused by email server, mobile carrier, and other factors.
